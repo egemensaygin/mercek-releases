@@ -2,15 +2,16 @@
 
 **Mercek**, Kariyer.net, Eleman.net, LinkedIn, Kariyer Kapısı ve Kamu İlan (SBB) üzerindeki iş ilanlarını bilgisayarınızda tamamen yerel olarak takip eden masaüstü uygulamasıdır.
 
-## İndirme
+## Nasıl İndirilir ve Kurulur?
 
-En güncel Windows kurulum dosyasını buradan indirebilirsiniz:
+👉 **[Mercek Kurulum Dosyasını İndir (v1.0.0 — Windows)](https://github.com/egemensaygin/mercek-releases/releases/download/v1.0.0/Mercek.Setup.1.0.0.exe)**
 
-**[Mercek Son Sürümü İndir (Releases)](https://github.com/egemensaygin/mercek-releases/releases/latest)**
+1. Yukarıdaki bağlantıya tıklayın (yalnızca **Mercek.Setup.1.0.0.exe** dosyasını indirmeniz yeterlidir).
+2. İndirilen .exe dosyasına çift tıklayıp kurulumu tamamlayın.
+3. İlk açılışta Windows SmartScreen uyarısı çıkarsa **Ek bilgi → Yine de çalıştır** adımıyla güvenle devam edebilirsiniz.
 
-## Kurulum Notu (Windows SmartScreen)
-Uygulama henüz kod imzalama sertifikası içermediği için ilk çalıştırmada Windows SmartScreen uyarısı çıkabilir:
-**Ek bilgi → Yine de çalıştır** adımıyla güvenle kurabilirsiniz.
+*(Sürüm sayfasındaki latest.yml, .blockmap ve Source code dosyaları sistem/güncelleme içindir; indirmenize gerek yoktur.)*
 
-## Otomatik Güncelleme
-Mercek yeni sürümleri bu sayfa üzerinden otomatik olarak denetler; *Ayarlar → Mercek Hakkında → Güncellemeleri Denetle* bölümünden de manuel kontrol edebilirsiniz.
+## Tüm Sürümler & Otomatik Güncelleme
+- Tüm sürümler: [Releases Sayfası](https://github.com/egemensaygin/mercek-releases/releases/latest)
+- Mercek kurulduktan sonra yeni sürümleri otomatik olarak denetler ve indirir.
