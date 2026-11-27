@@ -9,14 +9,14 @@
 <p>
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11%20(x64)-1e293b?style=for-the-badge&labelColor=0f172a" alt="Windows x64" />
   <img src="https://img.shields.io/badge/Gizlilik-%25100%20Yerel-1e293b?style=for-the-badge&labelColor=0f172a" alt="Yerel" />
-  <img src="https://img.shields.io/badge/S%C3%BCr%C3%BCm-v1.0.11-2563eb?style=for-the-badge&labelColor=0f172a" alt="v1.0.11" />
+  <img src="https://img.shields.io/badge/S%C3%BCr%C3%BCm-v1.0.12-2563eb?style=for-the-badge&labelColor=0f172a" alt="v1.0.12" />
 </p>
 
 <br />
 
-[![Mercek İndir (Windows)](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20%20Mercek%20v1.0.11%20%C4%B0ndir%20(Windows)-2563eb?style=for-the-badge)](https://github.com/egemensaygin/mercek-releases/releases/download/v1.0.11/Mercek-Setup-1.0.11.exe)
+[![Mercek İndir (Windows)](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20%20Mercek%20v1.0.12%20%C4%B0ndir%20(Windows)-2563eb?style=for-the-badge)](https://github.com/egemensaygin/mercek-releases/releases/download/v1.0.12/Mercek-Setup-1.0.12.exe)
 
-<sub>Tek tıkla doğrudan <code>Mercek-Setup-1.0.11.exe</code> kurulum dosyasını indirir · <a href="https://github.com/egemensaygin/mercek-releases/releases/latest">Tüm Sürümler</a></sub>
+<sub>Tek tıkla doğrudan <code>Mercek-Setup-1.0.12.exe</code> kurulum dosyasını indirir · <a href="https://github.com/egemensaygin/mercek-releases/releases/latest">Tüm Sürümler</a></sub>
 
 </div>
 
@@ -37,7 +37,7 @@
 
 ## Kurulum (3 Adım)
 
-1. Yukarıdaki **Mercek v1.0.11 İndir** butonuna tıklayarak Mercek-Setup-1.0.11.exe dosyasını indirin.
+1. Yukarıdaki **Mercek v1.0.12 İndir** butonuna tıklayarak Mercek-Setup-1.0.12.exe dosyasını indirin.
 2. İndirilen dosyaya çift tıklayıp kurulumu tamamlayın.
 3. Mercek'i açın, ilk filtrenizi oluşturun — uygulama sistem tepsisinde arka planda ilanları takip etmeye başlar.
 
